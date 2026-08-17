@@ -1,5 +1,5 @@
 # Monitoring
-
+See [monitoring/README.md](monitoring/README.md) for additional screenshots and details.
 This folder documents the monitoring part of the SolPl project.
 
 ## Stack
@@ -31,6 +31,14 @@ k6 was used to:
 
 ## Screenshots
 
+### Grafana Dashboard
+![Grafana Dashboard](grafana-dashboard.png)
+
+### CloudWatch Alarms
+![CloudWatch Alarms](cloudwatch-alarm.png)
+
+### GitHub Actions Deployment
+![GitHub Actions Deployment](github-actions-run.png)
 If you own the screenshots and they contain no sensitive information, you can add:
 
 ```text
